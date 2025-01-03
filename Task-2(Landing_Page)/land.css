@@ -1,0 +1,233 @@
+@font-face {
+    src: url(OneDirection.ttf)format("truetype");
+    font-family: nos;
+}
+
+
+.para {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 0.432);
+}
+
+.para2 {
+    text-align: center;
+    font-size: 130px;
+    font-family: nos;
+    color: rgb(255, 255, 255);
+}
+
+.menu-bar {
+    text-align: center;
+    background-color: #000000;
+}
+
+.menu-bar ul {
+    display: inline-flex;
+    color: rgb(255, 255, 255)
+}
+
+.menu-bar ul li {
+    font-family: Impact;
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.menu-bar ul li:hover {
+
+    background: floralwhite;
+    color: #000000;
+    border-radius: 3px;
+}
+
+.para5 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    line-height: 2;
+    background-color: #0000006c;
+    padding: 10px;
+    border-radius: 0px;
+    margin-top: 300px
+}
+
+.lets-go-btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.lets-go-btn {
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+.lets-go-btn:hover {
+    background: rgb(147, 3, 3);
+}
+
+.flip-cards-title {
+    text-align: center;
+    font-size: 3em;
+    margin-top: 300px;
+    color: rgba(255, 255, 255, 0.925);
+}
+
+.flip-cards-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    gap: 130px;
+    margin-top: 10px;
+
+}
+
+
+.flip-card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+
+    perspective: 1000px;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 200px;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.9s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.flip-card-front {
+    background-color: #e6e6e693;
+    color: black;
+}
+
+.flip-card-back {
+    background-color: #d3d3d3;
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.flip-card-front img {
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.flip-card-back {
+    background-color: #000000;
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.icons {
+    display: flex;
+    font-size: 3rem;
+    margin-top: 0;
+    line-height: 0;
+    align-items: flex-end;
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+
+}
+
+.icons a {
+    margin-right: 75px;
+}
+
+.icons :hover {
+    transform: scale(1.5);
+}
+
+.section-dark-bg-full {
+    background-color: rgba(0, 0, 0, 0.8);
+
+    padding: 20px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.footer {
+    background-color: black;
+    margin: 0;
+
+    width: 100%;
+
+    padding: 10px;
+
+    color: white;
+    text-align: center;
+}
+
+
+.p1 {
+    color: floralwhite;
+    font-size: larger;
+    padding-bottom: 10px;
+
+}
+
+.bio {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.bio h2 {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.bio p {
+    font-size: 16px;
+    line-height: 1.5;
+}

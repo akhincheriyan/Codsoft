@@ -10,8 +10,8 @@
 
 **Portfolio**
 
-- [Task-1](https://github.com/akhincheriyan/Codsoft/tree/main/Task-1(Portfolio))
+- [Task-1](https://akhincheriyan.github.io/Codsoft/Task-1(Portfolio)/port.html)
 
 **Landing Page**
 
-- [Task-2](https://github.com/akhincheriyan/Codsoft/tree/main/Task-2(Landing_Page))
+- [Task-2](https://akhincheriyan.github.io/Codsoft/Task-2(Landing_Page)/land.htm)

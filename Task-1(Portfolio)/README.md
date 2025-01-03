@@ -1,6 +1,6 @@
 ## PORTFOLIO 
 
-Welcome to My Portfolio Website
+Welcome to My Portfolio Website!
 
 Explore my digital space where creativity meets functionality! Here, you’ll find a comprehensive showcase of my professional journey, skills, and passion for web design.
 
@@ -15,12 +15,12 @@ Explore my digital space where creativity meets functionality! Here, you’ll fi
 - Contact
 
 ## TECHNOLOGIES USED
+
 - HTML
 - CSS
 - JAVASCRIPT
 
 ## CONTACT
-
 
 If you have any questions or need assistance, feel free to reach out:
 

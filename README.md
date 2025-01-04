@@ -17,3 +17,7 @@
 **Landing Page**
 
 - [Task-2](https://akhincheriyan.github.io/Codsoft/Task-2(Landing_Page)/land.html)
+
+**Calculator**
+
+- [Task-3](https://akhincheriyan.github.io/Codsoft/Task-3(Calculator)/cal.html)

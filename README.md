@@ -16,4 +16,4 @@
 
 **Landing Page**
 
-- [Task-2](https://akhincheriyan.github.io/Codsoft/Task-2(Landing_Page)/land.htm)
+- [Task-2](https://akhincheriyan.github.io/Codsoft/Task-2(Landing_Page)/land.html)

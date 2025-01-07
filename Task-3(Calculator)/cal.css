@@ -62,9 +62,6 @@ input[type="text"] {
   border-radius: 8px;
 }
 
-input[type=button]:hover {
-  background-color: #8c8c8c88;
-}
 
 input[type="text"]:disabled {
   color: #000000;

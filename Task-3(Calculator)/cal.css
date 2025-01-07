@@ -12,8 +12,6 @@ hr {
   background-color: aqua;
 }
 
-
-
 .wrapper {
   display: grid;
   height: 600px;
@@ -21,7 +19,9 @@ hr {
   grid-template-columns: 1fr;
   grid-gap: 1px;
 
+
 }
+
 
 .buttons {
   display: grid;
@@ -106,7 +106,7 @@ input[type="text"]:disabled {
 body {
   width: 100%;
   height: 100vh;
-  background: url(beautiful-anime-landscape-cartoon-scene.jpg)no-repeat;
+  background: url(full_moon_moon_clouds_866124_1920x1080.jpg)no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;

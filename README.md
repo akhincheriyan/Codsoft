@@ -12,7 +12,7 @@
 
 **Portfolio**
 
-- [Task-1](https://akhincheriyan.github.io/Codsoft/Task-1(Portfolio)/port.html)
+- [Task-1](https://akhincheriyan.github.io/Codsoft/Task-1(Portfolio)/index.html)
 
 **Landing Page**
 

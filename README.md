@@ -1,6 +1,6 @@
 # CODSOFT - Internship Repository
 
-🌟 A Showcase of My Web Development Projects!🌟
+ A Showcase of My Web Development Projects!
 
 📂 A collection of my web development projects and code samples from my internship, highlighting my exploration of frontend and backend technologies.
 
